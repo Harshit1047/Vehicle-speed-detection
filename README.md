@@ -45,6 +45,6 @@ To deploy this project run
 
 ##  Build With ❤️ by :
 
-<link href="https://github.com/Harshit1047">Harshit Singh</link>
+<a href="https://github.com/Harshit1047">Harshit Singh</a>
 
 
