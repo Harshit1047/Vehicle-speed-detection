@@ -50,5 +50,6 @@ https://user-images.githubusercontent.com/86252946/147607078-f8ddd660-df69-43d2-
 ##  Build With ❤️ by :
 
 <a href="https://github.com/Harshit1047">Harshit Singh</a>
+<a href="https://github.com/Kunal-2001">Kunal Singhal</a>
 
 
