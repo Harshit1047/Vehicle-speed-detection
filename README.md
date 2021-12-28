@@ -24,6 +24,7 @@ To deploy this project run
 
 
 ## Architecture Diagram
+![image_6483441](https://user-images.githubusercontent.com/86252946/147605944-5bbef1e3-3deb-446c-a2f8-ce05e920dbd8.JPG)
 
 
 ## Demo
